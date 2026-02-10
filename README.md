@@ -1,10 +1,10 @@
 ---
 
-# 🚗 Vehicle Detection and Authentication System
+# 🚗 Vehicle Detection and Authentication Model
 
 <div align="center">
 
-**Real-time vehicle detection, tracking, and license plate recognition system.**
+**Real-time vehicle detection, tracking, and license plate recognition system weights if you need it annotations done via roboflow.**
 
 **[🎥 Watch Project Demo](https://www.linkedin.com/posts/humaisaslam_computervision-yolo-ocr-activity-7412950854636429312-N5Il?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD__vkwBgYamfymTtJyXKbhzFJkSFqPsNfM)**
 
@@ -72,3 +72,4 @@ python app.py
 **Developed by Humais Aslam Under Olive Digital PVT Ltd**)
 
 </div>
+
