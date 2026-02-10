@@ -44,8 +44,8 @@ car-dashboard/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/humaisaslam/vehicle-detection-system.git
-cd vehicle-detection-system
+git clone https://github.com/humaisaslam/Pakistani-vehicles-yolo.git
+cd Pakstani-vehicles-yolo
 
 ```
 
@@ -72,6 +72,7 @@ python app.py
 **Developed by Humais Aslam Under Olive Digital PVT Ltd**)
 
 </div>
+
 
 
 
