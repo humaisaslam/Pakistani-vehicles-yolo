@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Real-time vehicle detection, tracking, and license plate recognition system weights if you need it annotations done via roboflow.**
+**Real-time vehicle detection, tracking, and license plate recognition system weights**
 
 **[🎥 Watch Project Demo](https://www.linkedin.com/posts/humaisaslam_computervision-yolo-ocr-activity-7412950854636429312-N5Il?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD__vkwBgYamfymTtJyXKbhzFJkSFqPsNfM)**
 
@@ -72,5 +72,6 @@ python app.py
 **Developed by Humais Aslam Under Olive Digital PVT Ltd**)
 
 </div>
+
 
 
