@@ -384,35 +384,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [Full documentation available here](docs/)
 
 ---
-
-## 📈 Roadmap
-
-### Short-term (Q2 2024)
-- [ ] Mobile application integration
-- [ ] Cloud deployment options
-- [ ] Enhanced analytics dashboard
-- [ ] Multi-language support
-
-### Medium-term (Q3 2024)
-- [ ] License plate recognition
-- [ ] Vehicle make/model detection
-- [ ] Integration with parking systems
-- [ ] API rate limiting
-
-### Long-term (Q4 2024)
-- [ ] AI-powered predictions
-- [ ] Edge computing support
-- [ ] IoT device integration
-- [ ] Commercial deployment options
-
----
-
 <div align="center">
 
 ### ⭐ **Star this repo if you found it useful!**
 
-**Developed with ❤️ by [Your Name]**
+**Developed By Humais Aslam**
 
-🔗 **Connect on [LinkedIn](https://linkedin.com/in/yourprofile)** • 🐦 **Follow on [Twitter](https://twitter.com/yourhandle)**
-
+🔗 **Connect on [LinkedIn](https://linkedin.com/in/humaisaslam)** 
 </div>
+
