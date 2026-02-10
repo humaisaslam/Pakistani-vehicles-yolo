@@ -1,6 +1,6 @@
 ---
 
-# 🚗 Vehicle Detection and Authentication Model
+# 🚗 Vehicle detection weights for yolov11
 
 <div align="center">
 
@@ -72,4 +72,5 @@ python app.py
 **Developed by Humais Aslam Under Olive Digital PVT Ltd**)
 
 </div>
+
 
